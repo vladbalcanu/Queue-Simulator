@@ -1,0 +1,1137 @@
+Time :0
+Waiting clients : (3,3,2);(8,3,2);(9,3,2);(14,3,3);(15,3,4);(17,3,2);(11,4,2);(18,4,2);(7,5,2);(12,5,4);(5,6,2);(6,6,4);(10,6,4);(20,7,4);(1,8,3);(2,8,4);(13,8,2);(16,8,4);(19,8,2);(4,9,3);
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :1
+Waiting clients : (3,3,2);(8,3,2);(9,3,2);(14,3,3);(15,3,4);(17,3,2);(11,4,2);(18,4,2);(7,5,2);(12,5,4);(5,6,2);(6,6,4);(10,6,4);(20,7,4);(1,8,3);(2,8,4);(13,8,2);(16,8,4);(19,8,2);(4,9,3);
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :2
+Waiting clients : (3,3,2);(8,3,2);(9,3,2);(14,3,3);(15,3,4);(17,3,2);(11,4,2);(18,4,2);(7,5,2);(12,5,4);(5,6,2);(6,6,4);(10,6,4);(20,7,4);(1,8,3);(2,8,4);(13,8,2);(16,8,4);(19,8,2);(4,9,3);
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :3
+Waiting clients : (11,4,2);(18,4,2);(7,5,2);(12,5,4);(5,6,2);(6,6,4);(10,6,4);(20,7,4);(1,8,3);(2,8,4);(13,8,2);(16,8,4);(19,8,2);(4,9,3);
+ COADA 0: (3,3,2,5);(15,3,4,9);
+ COADA 1: (8,3,2,5);(17,3,2,7);
+ COADA 2: (9,3,2,5);
+ COADA 3: (14,3,3,6);
+
+Time :4
+Waiting clients : (7,5,2);(12,5,4);(5,6,2);(6,6,4);(10,6,4);(20,7,4);(1,8,3);(2,8,4);(13,8,2);(16,8,4);(19,8,2);(4,9,3);
+ COADA 0: (3,3,2,5);(15,3,4,9);
+ COADA 1: (8,3,2,5);(17,3,2,7);
+ COADA 2: (9,3,2,5);(11,4,2,8);
+ COADA 3: (14,3,3,6);(18,4,2,9);
+
+Time :5
+Waiting clients : (5,6,2);(6,6,4);(10,6,4);(20,7,4);(1,8,3);(2,8,4);(13,8,2);(16,8,4);(19,8,2);(4,9,3);
+ COADA 0: (15,3,4,9);
+ COADA 1: (17,3,2,7);(7,5,2,9);
+ COADA 2: (11,4,2,8);(12,5,4,11);
+ COADA 3: (14,3,3,6);(18,4,2,9);
+
+Time :6
+Waiting clients : (20,7,4);(1,8,3);(2,8,4);(13,8,2);(16,8,4);(19,8,2);(4,9,3);
+ COADA 0: (15,3,4,9);(6,6,4,14);
+ COADA 1: (17,3,2,7);(7,5,2,9);(10,6,4,14);
+ COADA 2: (11,4,2,8);(12,5,4,11);
+ COADA 3: (18,4,2,9);(5,6,2,10);
+
+Time :7
+Waiting clients : (1,8,3);(2,8,4);(13,8,2);(16,8,4);(19,8,2);(4,9,3);
+ COADA 0: (15,3,4,9);(6,6,4,14);
+ COADA 1: (7,5,2,9);(10,6,4,14);
+ COADA 2: (12,5,4,11);(20,7,4,15);
+ COADA 3: (18,4,2,9);(5,6,2,10);
+
+Time :8
+Waiting clients : (4,9,3);
+ COADA 0: (15,3,4,9);(6,6,4,14);(16,8,4,20);
+ COADA 1: (7,5,2,9);(10,6,4,14);(13,8,2,16);(19,8,2,18);
+ COADA 2: (12,5,4,11);(20,7,4,15);
+ COADA 3: (5,6,2,10);(1,8,3,13);(2,8,4,17);
+
+Time :9
+Waiting clients : 
+ COADA 0: (6,6,4,14);(16,8,4,20);(4,9,3,20);
+ COADA 1: (10,6,4,14);(13,8,2,16);(19,8,2,18);
+ COADA 2: (12,5,4,11);(20,7,4,15);
+ COADA 3: (5,6,2,10);(1,8,3,13);(2,8,4,17);
+
+Time :10
+Waiting clients : 
+ COADA 0: (6,6,4,14);(16,8,4,20);(4,9,3,20);
+ COADA 1: (10,6,4,14);(13,8,2,16);(19,8,2,18);
+ COADA 2: (12,5,4,11);(20,7,4,15);
+ COADA 3: (1,8,3,13);(2,8,4,17);
+
+Time :11
+Waiting clients : 
+ COADA 0: (6,6,4,14);(16,8,4,20);(4,9,3,20);
+ COADA 1: (10,6,4,14);(13,8,2,16);(19,8,2,18);
+ COADA 2: (20,7,4,15);
+ COADA 3: (1,8,3,13);(2,8,4,17);
+
+Time :12
+Waiting clients : 
+ COADA 0: (6,6,4,14);(16,8,4,20);(4,9,3,20);
+ COADA 1: (10,6,4,14);(13,8,2,16);(19,8,2,18);
+ COADA 2: (20,7,4,15);
+ COADA 3: (1,8,3,13);(2,8,4,17);
+
+Time :13
+Waiting clients : 
+ COADA 0: (16,8,4,20);(4,9,3,20);
+ COADA 1: (13,8,2,16);(19,8,2,18);
+ COADA 2: (20,7,4,15);
+ COADA 3: (2,8,4,17);
+
+Time :14
+Waiting clients : 
+ COADA 0: (16,8,4,20);(4,9,3,20);
+ COADA 1: (13,8,2,16);(19,8,2,18);
+ COADA 2: (20,7,4,15);
+ COADA 3: (2,8,4,17);
+
+Time :15
+Waiting clients : 
+ COADA 0: (16,8,4,20);(4,9,3,20);
+ COADA 1: (19,8,2,18);
+ COADA 2: 
+ COADA 3: (2,8,4,17);
+
+Time :16
+Waiting clients : 
+ COADA 0: (16,8,4,20);(4,9,3,20);
+ COADA 1: (19,8,2,18);
+ COADA 2: 
+ COADA 3: (2,8,4,17);
+
+Time :17
+Waiting clients : 
+ COADA 0: (4,9,3,20);
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :18
+Waiting clients : 
+ COADA 0: (4,9,3,20);
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :19
+Waiting clients : 
+ COADA 0: (4,9,3,20);
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :20
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :21
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :22
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :23
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :24
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :25
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :26
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :27
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :28
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :29
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+The average Waiting time is : 3.2
+The peak hour was : 8 with :12 Clients
+The average processing time is : 2.85
+Time :0
+Waiting clients : (1,4,3);(3,4,4);(9,4,4);(18,4,3);(4,5,4);(15,5,3);(17,6,3);(7,8,3);(10,8,4);(2,9,4);(16,9,3);(19,9,3);(5,10,3);(6,11,3);(8,11,3);(12,11,3);(13,11,3);(20,13,3);(11,14,3);(14,14,3);
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :1
+Waiting clients : (1,4,3);(3,4,4);(9,4,4);(18,4,3);(4,5,4);(15,5,3);(17,6,3);(7,8,3);(10,8,4);(2,9,4);(16,9,3);(19,9,3);(5,10,3);(6,11,3);(8,11,3);(12,11,3);(13,11,3);(20,13,3);(11,14,3);(14,14,3);
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :2
+Waiting clients : (1,4,3);(3,4,4);(9,4,4);(18,4,3);(4,5,4);(15,5,3);(17,6,3);(7,8,3);(10,8,4);(2,9,4);(16,9,3);(19,9,3);(5,10,3);(6,11,3);(8,11,3);(12,11,3);(13,11,3);(20,13,3);(11,14,3);(14,14,3);
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :3
+Waiting clients : (1,4,3);(3,4,4);(9,4,4);(18,4,3);(4,5,4);(15,5,3);(17,6,3);(7,8,3);(10,8,4);(2,9,4);(16,9,3);(19,9,3);(5,10,3);(6,11,3);(8,11,3);(12,11,3);(13,11,3);(20,13,3);(11,14,3);(14,14,3);
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :4
+Waiting clients : (4,5,4);(15,5,3);(17,6,3);(7,8,3);(10,8,4);(2,9,4);(16,9,3);(19,9,3);(5,10,3);(6,11,3);(8,11,3);(12,11,3);(13,11,3);(20,13,3);(11,14,3);(14,14,3);
+ COADA 0: (1,4,3,7);
+ COADA 1: (3,4,4,8);
+ COADA 2: (9,4,4,8);
+ COADA 3: (18,4,3,7);
+
+Time :5
+Waiting clients : (17,6,3);(7,8,3);(10,8,4);(2,9,4);(16,9,3);(19,9,3);(5,10,3);(6,11,3);(8,11,3);(12,11,3);(13,11,3);(20,13,3);(11,14,3);(14,14,3);
+ COADA 0: (1,4,3,7);(4,5,4,12);
+ COADA 1: (3,4,4,8);
+ COADA 2: (9,4,4,8);
+ COADA 3: (18,4,3,7);(15,5,3,11);
+
+Time :6
+Waiting clients : (7,8,3);(10,8,4);(2,9,4);(16,9,3);(19,9,3);(5,10,3);(6,11,3);(8,11,3);(12,11,3);(13,11,3);(20,13,3);(11,14,3);(14,14,3);
+ COADA 0: (1,4,3,7);(4,5,4,12);
+ COADA 1: (3,4,4,8);(17,6,3,13);
+ COADA 2: (9,4,4,8);
+ COADA 3: (18,4,3,7);(15,5,3,11);
+
+Time :7
+Waiting clients : (7,8,3);(10,8,4);(2,9,4);(16,9,3);(19,9,3);(5,10,3);(6,11,3);(8,11,3);(12,11,3);(13,11,3);(20,13,3);(11,14,3);(14,14,3);
+ COADA 0: (4,5,4,12);
+ COADA 1: (3,4,4,8);(17,6,3,13);
+ COADA 2: (9,4,4,8);
+ COADA 3: (15,5,3,11);
+
+Time :8
+Waiting clients : (2,9,4);(16,9,3);(19,9,3);(5,10,3);(6,11,3);(8,11,3);(12,11,3);(13,11,3);(20,13,3);(11,14,3);(14,14,3);
+ COADA 0: (4,5,4,12);
+ COADA 1: (17,6,3,13);(10,8,4,15);
+ COADA 2: (7,8,3,11);
+ COADA 3: (15,5,3,11);
+
+Time :9
+Waiting clients : (5,10,3);(6,11,3);(8,11,3);(12,11,3);(13,11,3);(20,13,3);(11,14,3);(14,14,3);
+ COADA 0: (4,5,4,12);(19,9,3,16);
+ COADA 1: (17,6,3,13);(10,8,4,15);
+ COADA 2: (7,8,3,11);(2,9,4,16);
+ COADA 3: (15,5,3,11);(16,9,3,15);
+
+Time :10
+Waiting clients : (6,11,3);(8,11,3);(12,11,3);(13,11,3);(20,13,3);(11,14,3);(14,14,3);
+ COADA 0: (4,5,4,12);(19,9,3,16);
+ COADA 1: (17,6,3,13);(10,8,4,15);
+ COADA 2: (7,8,3,11);(2,9,4,16);
+ COADA 3: (16,9,3,15);(5,10,3,16);
+
+Time :11
+Waiting clients : (20,13,3);(11,14,3);(14,14,3);
+ COADA 0: (19,9,3,16);(6,11,3,17);(13,11,3,20);
+ COADA 1: (10,8,4,15);(8,11,3,18);
+ COADA 2: (2,9,4,16);(12,11,3,18);
+ COADA 3: (16,9,3,15);(5,10,3,16);
+
+Time :12
+Waiting clients : (20,13,3);(11,14,3);(14,14,3);
+ COADA 0: (19,9,3,16);(6,11,3,17);(13,11,3,20);
+ COADA 1: (10,8,4,15);(8,11,3,18);
+ COADA 2: (2,9,4,16);(12,11,3,18);
+ COADA 3: (16,9,3,15);(5,10,3,16);
+
+Time :13
+Waiting clients : (11,14,3);(14,14,3);
+ COADA 0: (19,9,3,16);(6,11,3,17);(13,11,3,20);
+ COADA 1: (10,8,4,15);(8,11,3,18);
+ COADA 2: (2,9,4,16);(12,11,3,18);
+ COADA 3: (5,10,3,16);(20,13,3,19);
+
+Time :14
+Waiting clients : 
+ COADA 0: (6,11,3,17);(13,11,3,20);(11,14,3,23);
+ COADA 1: (10,8,4,15);(8,11,3,18);
+ COADA 2: (2,9,4,16);(12,11,3,18);
+ COADA 3: (5,10,3,16);(20,13,3,19);(14,14,3,23);
+
+Time :15
+Waiting clients : 
+ COADA 0: (6,11,3,17);(13,11,3,20);(11,14,3,23);
+ COADA 1: (8,11,3,18);
+ COADA 2: (12,11,3,18);
+ COADA 3: (5,10,3,16);(20,13,3,19);(14,14,3,23);
+
+Time :16
+Waiting clients : 
+ COADA 0: (6,11,3,17);(13,11,3,20);(11,14,3,23);
+ COADA 1: (8,11,3,18);
+ COADA 2: (12,11,3,18);
+ COADA 3: (20,13,3,19);(14,14,3,23);
+
+Time :17
+Waiting clients : 
+ COADA 0: (13,11,3,20);(11,14,3,23);
+ COADA 1: (8,11,3,18);
+ COADA 2: (12,11,3,18);
+ COADA 3: (20,13,3,19);(14,14,3,23);
+
+Time :18
+Waiting clients : 
+ COADA 0: (13,11,3,20);(11,14,3,23);
+ COADA 1: 
+ COADA 2: 
+ COADA 3: (20,13,3,19);(14,14,3,23);
+
+Time :19
+Waiting clients : 
+ COADA 0: (13,11,3,20);(11,14,3,23);
+ COADA 1: 
+ COADA 2: 
+ COADA 3: (14,14,3,23);
+
+Time :20
+Waiting clients : 
+ COADA 0: (11,14,3,23);
+ COADA 1: 
+ COADA 2: 
+ COADA 3: (14,14,3,23);
+
+Time :21
+Waiting clients : 
+ COADA 0: (11,14,3,23);
+ COADA 1: 
+ COADA 2: 
+ COADA 3: (14,14,3,23);
+
+Time :22
+Waiting clients : 
+ COADA 0: (11,14,3,23);
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :23
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :24
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :25
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :26
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :27
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :28
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :29
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :30
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :31
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :32
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :33
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :34
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :35
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :36
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :37
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :38
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :39
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :40
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :41
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :42
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :43
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :44
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+The average Waiting time is : 2.9
+The peak hour was : 14 with : 10 Clients
+The average processing time is : 3.25
+Time :0
+Waiting clients : (1,1,4);(2,1,2);(4,1,2);(5,1,2);(7,1,2);(3,2,3);(8,2,5);(9,2,3);(10,3,2);(6,4,2);
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :1
+Waiting clients : (3,2,3);(8,2,5);(9,2,3);(10,3,2);(6,4,2);
+ COADA 0: (1,1,4,5);
+ COADA 1: (2,1,2,3);(5,1,2,5);
+ COADA 2: (4,1,2,3);(7,1,2,5);
+
+Time :2
+Waiting clients : (10,3,2);(6,4,2);
+ COADA 0: (1,1,4,5);(3,2,3,9);
+ COADA 1: (2,1,2,3);(5,1,2,5);(8,2,5,11);
+ COADA 2: (4,1,2,3);(7,1,2,5);(9,2,3,9);
+
+Time :3
+Waiting clients : (6,4,2);
+ COADA 0: (1,1,4,5);(3,2,3,9);
+ COADA 1: (5,1,2,5);(8,2,5,11);
+ COADA 2: (7,1,2,5);(9,2,3,9);(10,3,2,10);
+
+Time :4
+Waiting clients : 
+ COADA 0: (1,1,4,5);(3,2,3,9);(6,4,2,13);
+ COADA 1: (5,1,2,5);(8,2,5,11);
+ COADA 2: (7,1,2,5);(9,2,3,9);(10,3,2,10);
+
+Time :5
+Waiting clients : 
+ COADA 0: (3,2,3,9);(6,4,2,13);
+ COADA 1: (8,2,5,11);
+ COADA 2: (9,2,3,9);(10,3,2,10);
+
+Time :6
+Waiting clients : 
+ COADA 0: (3,2,3,9);(6,4,2,13);
+ COADA 1: (8,2,5,11);
+ COADA 2: (9,2,3,9);(10,3,2,10);
+
+Time :7
+Waiting clients : 
+ COADA 0: (3,2,3,9);(6,4,2,13);
+ COADA 1: (8,2,5,11);
+ COADA 2: (9,2,3,9);(10,3,2,10);
+
+Time :8
+Waiting clients : 
+ COADA 0: (6,4,2,13);
+ COADA 1: (8,2,5,11);
+ COADA 2: (10,3,2,10);
+
+Time :9
+Waiting clients : 
+ COADA 0: (6,4,2,13);
+ COADA 1: (8,2,5,11);
+ COADA 2: (10,3,2,10);
+
+Time :10
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :11
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :12
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :13
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :14
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :15
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :16
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :17
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :18
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :19
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :20
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :21
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :22
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :23
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :24
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :25
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :26
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :27
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :28
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+Time :29
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+
+The average Waiting time is : 2.8
+The peak hour was : 2 with : 8 Clients
+The average processing time is : 2.7
+Time :0
+Waiting clients : (2,2,3);(9,2,3);(18,3,2);(20,4,6);(3,7,9);(16,8,9);(22,9,3);(4,10,9);(7,10,2);(24,11,4);(15,12,9);(6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :1
+Waiting clients : (2,2,3);(9,2,3);(18,3,2);(20,4,6);(3,7,9);(16,8,9);(22,9,3);(4,10,9);(7,10,2);(24,11,4);(15,12,9);(6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :2
+Waiting clients : (18,3,2);(20,4,6);(3,7,9);(16,8,9);(22,9,3);(4,10,9);(7,10,2);(24,11,4);(15,12,9);(6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (2,2,3,5);
+ COADA 1: (9,2,3,5);
+ COADA 2: 
+ COADA 3: 
+
+Time :3
+Waiting clients : (20,4,6);(3,7,9);(16,8,9);(22,9,3);(4,10,9);(7,10,2);(24,11,4);(15,12,9);(6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (2,2,3,5);
+ COADA 1: (9,2,3,5);
+ COADA 2: (18,3,2,5);
+ COADA 3: 
+
+Time :4
+Waiting clients : (3,7,9);(16,8,9);(22,9,3);(4,10,9);(7,10,2);(24,11,4);(15,12,9);(6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (2,2,3,5);
+ COADA 1: (9,2,3,5);
+ COADA 2: (18,3,2,5);
+ COADA 3: (20,4,6,10);
+
+Time :5
+Waiting clients : (3,7,9);(16,8,9);(22,9,3);(4,10,9);(7,10,2);(24,11,4);(15,12,9);(6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: (20,4,6,10);
+
+Time :6
+Waiting clients : (3,7,9);(16,8,9);(22,9,3);(4,10,9);(7,10,2);(24,11,4);(15,12,9);(6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: (20,4,6,10);
+
+Time :7
+Waiting clients : (16,8,9);(22,9,3);(4,10,9);(7,10,2);(24,11,4);(15,12,9);(6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (3,7,9,16);
+ COADA 1: 
+ COADA 2: 
+ COADA 3: (20,4,6,10);
+
+Time :8
+Waiting clients : (22,9,3);(4,10,9);(7,10,2);(24,11,4);(15,12,9);(6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (3,7,9,16);
+ COADA 1: (16,8,9,17);
+ COADA 2: 
+ COADA 3: (20,4,6,10);
+
+Time :9
+Waiting clients : (4,10,9);(7,10,2);(24,11,4);(15,12,9);(6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (3,7,9,16);
+ COADA 1: (16,8,9,17);
+ COADA 2: (22,9,3,12);
+ COADA 3: (20,4,6,10);
+
+Time :10
+Waiting clients : (24,11,4);(15,12,9);(6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (3,7,9,16);
+ COADA 1: (16,8,9,17);
+ COADA 2: (22,9,3,12);(7,10,2,15);
+ COADA 3: (4,10,9,19);
+
+Time :11
+Waiting clients : (15,12,9);(6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (3,7,9,16);
+ COADA 1: (16,8,9,17);
+ COADA 2: (22,9,3,12);(7,10,2,15);(24,11,4,20);
+ COADA 3: (4,10,9,19);
+
+Time :12
+Waiting clients : (6,13,7);(5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (3,7,9,16);
+ COADA 1: (16,8,9,17);
+ COADA 2: (7,10,2,15);(24,11,4,20);(15,12,9,27);
+ COADA 3: (4,10,9,19);
+
+Time :13
+Waiting clients : (5,14,3);(8,14,2);(21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (3,7,9,16);(6,13,7,29);
+ COADA 1: (16,8,9,17);
+ COADA 2: (7,10,2,15);(24,11,4,20);(15,12,9,27);
+ COADA 3: (4,10,9,19);
+
+Time :14
+Waiting clients : (21,15,2);(23,15,2);(1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (3,7,9,16);(6,13,7,29);
+ COADA 1: (16,8,9,17);(5,14,3,26);
+ COADA 2: (24,11,4,20);(15,12,9,27);
+ COADA 3: (4,10,9,19);(8,14,2,25);
+
+Time :15
+Waiting clients : (1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (3,7,9,16);(6,13,7,29);
+ COADA 1: (16,8,9,17);(5,14,3,26);(23,15,2,29);
+ COADA 2: (24,11,4,20);(15,12,9,27);
+ COADA 3: (4,10,9,19);(8,14,2,25);(21,15,2,28);
+
+Time :16
+Waiting clients : (1,17,2);(12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (6,13,7,29);
+ COADA 1: (16,8,9,17);(5,14,3,26);(23,15,2,29);
+ COADA 2: (24,11,4,20);(15,12,9,27);
+ COADA 3: (4,10,9,19);(8,14,2,25);(21,15,2,28);
+
+Time :17
+Waiting clients : (12,18,2);(17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (6,13,7,29);
+ COADA 1: (5,14,3,26);(23,15,2,29);(1,17,2,24);
+ COADA 2: (24,11,4,20);(15,12,9,27);
+ COADA 3: (4,10,9,19);(8,14,2,25);(21,15,2,28);
+
+Time :18
+Waiting clients : (17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (6,13,7,29);(12,18,2,27);
+ COADA 1: (5,14,3,26);(23,15,2,29);(1,17,2,24);
+ COADA 2: (15,12,9,27);
+ COADA 3: (4,10,9,19);(8,14,2,25);(21,15,2,28);
+
+Time :19
+Waiting clients : (17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (6,13,7,29);(12,18,2,27);
+ COADA 1: (5,14,3,26);(23,15,2,29);(1,17,2,24);
+ COADA 2: (15,12,9,27);
+ COADA 3: (8,14,2,25);(21,15,2,28);
+
+Time :20
+Waiting clients : (17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (6,13,7,29);(12,18,2,27);
+ COADA 1: (23,15,2,29);(1,17,2,24);
+ COADA 2: (15,12,9,27);
+ COADA 3: (8,14,2,25);(21,15,2,28);
+
+Time :21
+Waiting clients : (17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (6,13,7,29);(12,18,2,27);
+ COADA 1: (23,15,2,29);(1,17,2,24);
+ COADA 2: (15,12,9,27);
+ COADA 3: (21,15,2,28);
+
+Time :22
+Waiting clients : (17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (6,13,7,29);(12,18,2,27);
+ COADA 1: (1,17,2,24);
+ COADA 2: (15,12,9,27);
+ COADA 3: (21,15,2,28);
+
+Time :23
+Waiting clients : (17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (12,18,2,27);
+ COADA 1: (1,17,2,24);
+ COADA 2: (15,12,9,27);
+ COADA 3: 
+
+Time :24
+Waiting clients : (17,25,6);(25,25,4);(13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (12,18,2,27);
+ COADA 1: 
+ COADA 2: (15,12,9,27);
+ COADA 3: 
+
+Time :25
+Waiting clients : (13,26,5);(14,26,2);(11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (17,25,6,31);
+ COADA 1: (25,25,4,29);
+ COADA 2: (15,12,9,27);
+ COADA 3: 
+
+Time :26
+Waiting clients : (11,27,3);(19,27,5);(10,28,6);
+ COADA 0: (17,25,6,31);
+ COADA 1: (25,25,4,29);(14,26,2,32);
+ COADA 2: (15,12,9,27);
+ COADA 3: (13,26,5,31);
+
+Time :27
+Waiting clients : (10,28,6);
+ COADA 0: (17,25,6,31);
+ COADA 1: (25,25,4,29);(14,26,2,32);
+ COADA 2: (11,27,3,30);(19,27,5,35);
+ COADA 3: (13,26,5,31);
+
+Time :28
+Waiting clients : 
+ COADA 0: (17,25,6,31);
+ COADA 1: (25,25,4,29);(14,26,2,32);
+ COADA 2: (11,27,3,30);(19,27,5,35);
+ COADA 3: (13,26,5,31);(10,28,6,39);
+
+Time :29
+Waiting clients : 
+ COADA 0: (17,25,6,31);
+ COADA 1: (14,26,2,32);
+ COADA 2: (11,27,3,30);(19,27,5,35);
+ COADA 3: (13,26,5,31);(10,28,6,39);
+
+Time :30
+Waiting clients : 
+ COADA 0: (17,25,6,31);
+ COADA 1: (14,26,2,32);
+ COADA 2: (19,27,5,35);
+ COADA 3: (13,26,5,31);(10,28,6,39);
+
+Time :31
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: (19,27,5,35);
+ COADA 3: (10,28,6,39);
+
+Time :32
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: (19,27,5,35);
+ COADA 3: (10,28,6,39);
+
+Time :33
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: (19,27,5,35);
+ COADA 3: (10,28,6,39);
+
+Time :34
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: (19,27,5,35);
+ COADA 3: (10,28,6,39);
+
+Time :35
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: (10,28,6,39);
+
+Time :36
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: (10,28,6,39);
+
+Time :37
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :38
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :39
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :40
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :41
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :42
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :43
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :44
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :45
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :46
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :47
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :48
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :49
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :50
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :51
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :52
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :53
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :54
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :55
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :56
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :57
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :58
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+Time :59
+Waiting clients : 
+ COADA 0: 
+ COADA 1: 
+ COADA 2: 
+ COADA 3: 
+
+The average Waiting time is : 3.52
+The peak hour was : 15 with : 10 Clients
+The average processing time is : 4.4
